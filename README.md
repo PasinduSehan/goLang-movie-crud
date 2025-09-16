@@ -26,7 +26,7 @@ A simple RESTful API built with Go (Golang) for managing movie tickets using CRU
 5. Test with Postman on `http://localhost:8000/movies`.
 
 ## Projects Relation
-This project builds on my skills in full-stack development, similar to my Bank Transaction Web App (Spring Boot/MySQL) and Hotel Management System (Java/MySQL) from my BSc in Software Engineering at ESOFT Metro Campus.
+This project builds on my skills in full-stack development, similar to my Bank Transaction Web App (Spring Boot/MySQL) and Hotel Management System (Java/MySQL) from my BSc in Software Engineering.
 
 ## Author
 Pasindu Weerathunga  
